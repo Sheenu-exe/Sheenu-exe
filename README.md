@@ -1,6 +1,7 @@
-https://github.com/Sheenu-exe/Sheenu-exe/assets/130788900/44d66735-60a2-461b-ad46-dad641a4317b
+👋 ![ezgif-2-d034485a9f](https://github.com/Sheenu-exe/Sheenu-exe/assets/130788900/2ad0c9d5-7177-4653-9116-6647cebcc2c6)
 
-### Hi there 👋
+##Hi Mitron🤝
+
 
 <!--
 **Sheenu-exe/Sheenu-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
