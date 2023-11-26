@@ -8,7 +8,7 @@ Hi Mitron 🤝
 - 📫 How to reach me: Slide in my DMs ☺️ 
 - 😄 Pronouns: He/Him
 
-![logo-ig-stunning-instagram-logo-vector-download-for-new-7](https://www.instagram.com/sachinn.js/)
+![logo-ig-stunning-instagram-logo-vector-download-for-new-7(https://github.com/Sheenu-exe/Sheenu-exe/assets/130788900/44e68cb0-f410-4091-a629-9cbc86eca340)
 
 
 
