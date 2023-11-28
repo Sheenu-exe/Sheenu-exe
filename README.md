@@ -11,5 +11,4 @@ Hi Mitron 🤝
 
 
 
-![https://www.instagram.com/sachinn.js/](https://github.com/Sheenu-exe/Sheenu-exe/assets/130788900/fce33ba8-dcee-4229-92e9-6d4d7ffb3ac0)
 
