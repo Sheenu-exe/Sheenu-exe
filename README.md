@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sachin%20Parihar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=blue" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Sachin%20Parihar&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=blue" />
 </div>
 
 <h1 align="center">
@@ -40,9 +40,24 @@
 <details>
   <summary><h2>🏆 Projects</h2></summary>
   <p align="center">
-    <a href="#"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sachinparihar&repo=SYNAPSE&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="SYNAPSE"></a>
-    <a href="#"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sachinparihar&repo=Gita-AI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Gita AI"></a>
-    <a href="#"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sachinparihar&repo=Blaze-AI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Blaze AI"></a>
+    <a href="https://github.com/Sheenu-exe/Synapse3" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheenu-exe&repo=Synapse3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Synapse">
+    </a>
+    <a href="https://github.com/Sheenu-exe/GitaAI" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheenu-exe&repo=GitaAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Gita AI">
+    </a>
+    <a href="https://github.com/Sheenu-exe/Blaze" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheenu-exe&repo=Blaze&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Blaze AI">
+    </a>
+    <a href="https://github.com/Sheenu-exe/flick" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheenu-exe&repo=flick&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="Flick">
+    </a>
+    <a href="https://github.com/Sheenu-exe/iWeather" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheenu-exe&repo=iWeather&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="iWeather">
+    </a>
+    <a href="https://github.com/Sheenu-exe/BMI-calculator" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sheenu-exe&repo=BMI-calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="BMI Calculator">
+    </a>
   </p>
 </details>
 
