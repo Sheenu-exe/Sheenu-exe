@@ -1,54 +1,95 @@
-# 👋 Hi there, I'm Sachin Parihar!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sachin+Parihar!;Frontend+Developer;React+Enthusiast;UI%2FUX+Aficionado" alt="Typing SVG" />
+</div>
 
-## 🚀 Aspiring Front-End Developer | React Enthusiast | UI/UX Aficionado
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachinparihar&style=flat-square&color=blue" alt="Profile Views">
+</p>
 
-I'm a highly motivated and results-oriented aspiring Front-End Developer with a passion for building user-friendly and responsive web experiences. Currently pursuing my Bachelors of Computer Application at Manipal Online University Jaipur.
+<h2 align="center">🚀 Aspiring Front-End Developer | Building the Web of Tomorrow</h2>
 
-### 🛠️ Tech Stack
+<p align="center">
+  <a href="mailto:pariharsachin5002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  Passionate about crafting engaging and responsive web experiences. Currently pursuing my BCA at Manipal Online University Jaipur, I'm on a journey to turn innovative ideas into beautiful, functional realities.
+</p>
 
-### 🏆 Projects
+---
 
-- **SYNAPSE**: FlashCard Saver App (React, Tailwind, Firebase)
-- **Gita AI**: Bhagavad Gita Chatbot (React, Tailwind, Open AI API)
-- **Blaze AI**: AI Chatbot (React, Tailwind, Open AI API)
-- **Flick**: Realtime Chat App (React, Tailwind, Firebase)
-- **iWeather**: Weather App (HTML, CSS, JavaScript, Weather API)
-- **BMI Calculator** (React, CSS, JSX)
+<h3 align="center">🛠️ Tech Arsenal</h3>
 
-### 💼 Experience
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,nodejs,mongodb,bootstrap,python,firebase,supabase,github&perline=7" />
+</p>
 
-- Frontend Developer, FilmyBugs Entertainment (August 2023 - Present)
-- Frontend Developer Intern, PixelMize (June 2023 - Feb 2024)
-- Frontend Developer Intern, Trust Milennia (March 2024 - May 2024)
+---
 
-### 🎓 Education
+<h3 align="center">🏆 Project Showcase</h3>
 
-- Bachelors Of Computer Application, Manipal Online University Jaipur
-  - Relevant Coursework: Web Development, Computer Science Fundamentals, UI/UX Design
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://via.placeholder.com/150?text=SYNAPSE" width="100px;" alt="SYNAPSE"/><br /><sub><b>SYNAPSE</b></sub></a><br />FlashCard Saver App<br/><sub>React, Tailwind, Firebase</sub>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://via.placeholder.com/150?text=Gita+AI" width="100px;" alt="Gita AI"/><br /><sub><b>Gita AI</b></sub></a><br />Bhagavad Gita Chatbot<br/><sub>React, Tailwind, OpenAI</sub>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://via.placeholder.com/150?text=Blaze+AI" width="100px;" alt="Blaze AI"/><br /><sub><b>Blaze AI</b></sub></a><br />AI Chatbot<br/><sub>React, Tailwind, OpenAI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#"><img src="https://via.placeholder.com/150?text=Flick" width="100px;" alt="Flick"/><br /><sub><b>Flick</b></sub></a><br />Realtime Chat App<br/><sub>React, Tailwind, Firebase</sub>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://via.placeholder.com/150?text=iWeather" width="100px;" alt="iWeather"/><br /><sub><b>iWeather</b></sub></a><br />Weather App<br/><sub>HTML, CSS, JS, Weather API</sub>
+    </td>
+    <td align="center">
+      <a href="#"><img src="https://via.placeholder.com/150?text=BMI+Calc" width="100px;" alt="BMI Calculator"/><br /><sub><b>BMI Calculator</b></sub></a><br />Health Tool<br/><sub>React, CSS, JSX</sub>
+    </td>
+  </tr>
+</table>
 
-### 📫 Let's Connect!
+---
 
-- LinkedIn: [Your LinkedIn Profile]
-- Email: pariharsachin5002@gmail.com
-- Portfolio: [Your Portfolio Website]
+<h3 align="center">💼 Professional Journey</h3>
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a chat about web development!
-🤝 **Open to Collaboration:**
-- Excited to collaborate on frontend projects and open source.
+<div align="center">
+  
+| Role | Company | Duration |
+|:----:|:-------:|:--------:|
+| Frontend Developer | FilmyBugs Entertainment | Aug 2023 - Present |
+| Frontend Developer Intern | PixelMize | Jun 2023 - Feb 2024 |
+| Frontend Developer Intern | Trust Milennia | Mar 2024 - May 2024 |
 
-Feel free to explore my repositories and reach out for questions or collaboration. Happy coding! 🚀
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🌟 Let's Connect and Build Something Amazing!</h3>
+
+<p align="center">
+  I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
