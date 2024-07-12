@@ -26,6 +26,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,tailwind,nodejs,mongodb,bootstrap,python,firebase,supabase,github&perline=7" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=HTML;CSS;JavaScript;React;Node.js;TypeScript;Tailwind&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+
 ---
 
 <h3 align="center">🏆 Project Showcase</h3>
@@ -74,12 +78,47 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github-dark-blue" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinparihar&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinparihar&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinparihar&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sachinparihar&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="center">📈 Contribution Graph</h3>
+
+[![Sachin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sachinparihar&theme=github-dark)](https://github.com/sachinparihar)
+
+---
+
+<h3 align="center">🎵 Spotify Now Playing</h3>
+
+[![Spotify](https://novatorem-eta-seven.vercel.app/api/spotify)](https://open.spotify.com/user/sachinparihar)
+
+---
+
+<h3 align="center">💡 A Random Dev Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
 ---
@@ -92,4 +131,14 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+---
+
+<p align="center">
+  [Check out my GitHub Skyline](https://skyline.github.com/sachinparihar/2023)
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sachinparihar.sachinparihar" alt="visitors" />
 </p>
